@@ -1,0 +1,42 @@
+.autocomplit{
+    margin: 0px;
+    padding: 0px; 
+    list-style:none;
+    background: white; 
+    box-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+    border-radius: 5px; 
+    position: absolute;
+}
+.autocomplit>li{
+    padding: .5rem 1rem; 
+    margin: 0px; 
+    width: 100%
+}
+.autocomplit>li small{
+    color: #888
+}
+.autocomplit>li:hover{
+    background: #dfdfdf
+}
+#letter-tumb>li{
+    display: inline-block
+}
+#letter-tumb>li>img{
+    max-width: 50px;
+}
+.card{
+    padding: 2.5rem; 
+    box-shadow: 2px 3px 4px rgba(0,0,0,0.3)
+}
+
+#images{
+    list-style: none; 
+    padding: 0px; 
+    text-align: center
+}
+#images>li{
+    display:inline;
+}
+#images>li>img{
+    max-width: 50px;
+}

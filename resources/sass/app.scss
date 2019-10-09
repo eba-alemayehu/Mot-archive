@@ -1,0 +1,15 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Viewer
+@import '~viewerjs/src/index.scss'; 
+// @import 'module/login';
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
